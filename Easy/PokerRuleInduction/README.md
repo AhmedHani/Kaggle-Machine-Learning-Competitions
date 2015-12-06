@@ -7,5 +7,5 @@ Python packages used:
 - [matplotlib](http://matplotlib.org/)
 - [scipy](http://www.scipy.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
-
+- [pandas](http://pandas.pydata.org/)
 
