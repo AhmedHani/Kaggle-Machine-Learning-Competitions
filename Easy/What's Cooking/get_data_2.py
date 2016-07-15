@@ -49,4 +49,3 @@ def get_test_data_matrix(data, unique_ingredients):
                 test_data_matrix[i, j] = 1
 
     return test_data_matrix
-
