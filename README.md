@@ -5,11 +5,11 @@ Python Packages Used:
 
 - [numpy](http://www.numpy.org/)
 - [matplotlib](http://matplotlib.org/)
-- [seaborn] (https://seaborn.pydata.org/)
+- [seaborn](https://seaborn.pydata.org/)
 - [scipy](http://www.scipy.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
-- [tensorflow] (https://www.tensorflow.org/)
-- [keras] (https://keras.io/)
+- [tensorflow](https://www.tensorflow.org/)
+- [keras](https://keras.io/)
 
 
 Problems Solved:
