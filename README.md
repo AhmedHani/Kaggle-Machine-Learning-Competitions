@@ -5,9 +5,11 @@ Python Packages Used:
 
 - [numpy](http://www.numpy.org/)
 - [matplotlib](http://matplotlib.org/)
+- [seaborn] (https://seaborn.pydata.org/)
 - [scipy](http://www.scipy.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [tensorflow] (https://www.tensorflow.org/)
+- [keras] (https://keras.io/)
 
 
 Problems Solved:
@@ -19,3 +21,4 @@ Problems Solved:
 - [What's Cooking] (https://www.kaggle.com/c/whats-cooking)
 - [Bike Sharing Demand] (https://www.kaggle.com/c/bike-sharing-demand)
 - [Denoising Dirty Documents] (https://www.kaggle.com/c/denoising-dirty-documents/)
+- [SMS Spam Collection Dataset] (https://www.kaggle.com/uciml/sms-spam-collection-dataset)
